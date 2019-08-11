@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 2c2f213540c88644da672360c7b93bb0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dragon cut_0
+    21300002: Dragon cut_1
+    21300004: Dragon cut_2
+    21300006: Dragon cut_3
+    21300008: Dragon cut_4
+    21300010: Dragon cut_5
+    21300012: Dragon cut_6
+    21300014: Dragon cut_7
+    21300016: Dragon cut_8
+    21300018: Dragon cut_9
+    21300020: Dragon cut_10
+    21300022: Dragon cut_11
+    21300024: Dragon cut_12
+    21300026: Dragon cut_13
+    21300028: Dragon cut_14
+    21300030: Dragon cut_15
+    21300032: Dragon cut_16
+    21300034: Dragon cut_17
+    21300036: Dragon cut_18
+    21300038: Dragon cut_19
+    21300040: Dragon cut_20
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon cut_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 423
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc43428579a22624c95f9c41c6869fbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 421
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78d4cee992e7f14cbd35fd920cfccc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 346
+        width: 160
+        height: 178
+      alignment: 9
+      pivot: {x: 0.40283853, y: -0.0046095257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36166eee1526bf4ba8d17a58ef2b8dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 335
+        width: 62
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0552e50299e70d8499fd8862a84258e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 370
+        width: 60
+        height: 18
+      alignment: 9
+      pivot: {x: 0.96061784, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddbb8446274bd642ba00d2b85ed3d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 367
+        width: 69
+        height: 18
+      alignment: 9
+      pivot: {x: 0.036878943, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784846ede915aaf41a75f2aedafff2e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 323
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91161f07d44599c42b90c8c27c9d86be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 307
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e9eff91282674d9b5c0e313861691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 280
+        width: 105
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db409021ffdcae4aa5f99bfae0863e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 247
+        width: 49
+        height: 39
+      alignment: 9
+      pivot: {x: 0.90539086, y: 0.1235332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e06e0d61789a4b92a7119c8029a42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 220
+        width: 56
+        height: 43
+      alignment: 9
+      pivot: {x: 0.947252, y: 0.68076557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbf395cb29989b469d2dbb6f99f7919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 133
+        width: 118
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373f2750568832745b221984012a8313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 230
+        width: 79
+        height: 47
+      alignment: 9
+      pivot: {x: -0.012337213, y: 0.3713694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de95c2913b2ece94a97a4300155258f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_13
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 238
+        width: 23
+        height: 39
+      alignment: 9
+      pivot: {x: 0.46244878, y: 0.832176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f363e386afb44042b5d42e87d9f16f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 227
+        width: 50
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51727295, y: 0.82759464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d6894bd1f835948835f3346a40aa4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_15
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 176
+        width: 56
+        height: 104
+      alignment: 9
+      pivot: {x: 0.3766207, y: -0.0065690554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c55f9fd381aa47afc46e8dfc3e7c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 206
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8800098, y: 0.089761734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f970ab96684dfb4083593d3b433c3fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_17
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 138
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e56870c74e55143b86b5a0fdc77ff1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 73
+        width: 108
+        height: 140
+      alignment: 9
+      pivot: {x: 0.028186373, y: 0.12986052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbbfa3cfc33ba847a68d3270f75d20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 102
+        height: 90
+      alignment: 9
+      pivot: {x: 0.98263264, y: 0.68232745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505e3bb253592a04b803c6414d12851d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon cut_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 27
+        width: 91
+        height: 116
+      alignment: 9
+      pivot: {x: 0.23425896, y: 0.90204763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01710e30f5c8ef24a9b891f7c0136056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e81fb08cb6fb3b14c806e193dc3a9137
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
